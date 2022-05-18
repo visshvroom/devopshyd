@@ -5,3 +5,7 @@ Adding a new line of code for 2nd user
 
 3rd change.
 Added new line by master branch
+=======
+3rd changei.
+
+added a newline by bug1
